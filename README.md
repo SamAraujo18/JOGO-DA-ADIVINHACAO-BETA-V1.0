@@ -1,2 +1,2 @@
 # JOGO-DA-ADIVINHACAO-BETA-V1.0
-JOGO EM DESENVOLVIMENTO 
+O Jogo está em desenvovimento e sofrerá atualizações constantes com o objetivo de melhorar a experiência dos usuários.
